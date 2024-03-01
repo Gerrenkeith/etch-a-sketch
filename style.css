@@ -1,0 +1,19 @@
+* {
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    height: 100vh;
+}
+
+#container {
+    height: 500px;
+    margin: 0 auto;
+}
+.row  {
+    border: 1px solid black;
+    height: 25px;
+    width: 50px;
+    
+}
